@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "MIAUCITY.aternos.me",
+    "port": 63830,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Soy un bot para mantener el server encendido.",
+        "Ignora este mensaje.",
+        "https://discord.gg/8W2BDuYRDp"
       ]
     },
     "chat-log": true,
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1480366862280691844/xDpxk7sHU8BR-h22njgdaqQk0Lu_NMxX-3jx4D9Wx89pXdEJQ7YcUsOYR-rlkZl4lETG",
     "events": {
       "connect": true,
       "disconnect": true,
