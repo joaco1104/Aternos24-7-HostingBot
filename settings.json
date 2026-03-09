@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "AFKBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "MIAUCITY.aternos.me",
+    "ip": "miaucity.aternos.me",
     "port": 63830,
     "version": "1.21.1"
   },
